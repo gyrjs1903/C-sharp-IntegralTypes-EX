@@ -1,0 +1,14 @@
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
