@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace IntegralTypes
+﻿namespace IntegralTypes
 {
     class MainApp
     {
@@ -19,7 +17,21 @@ namespace IntegralTypes
             long g = -5000_0000_0000; //0이 1개
             ulong h = 200_0000_0000_0000_0000; //0이 18개
             Console.WriteLine($"g = {g}, h = {h}");
+            Ex ex = new Ex();
+            ex.quiz();
+            IntegerLiterals integerLiterals = new IntegerLiterals();
+            integerLiterals.literals();
+            OverflowStudy overflowStudy = new OverflowStudy();
+            overflowStudy.overflowEx();
 
+        }
+        class Ex
+        {
+            public void quiz()
+            {
+                long a = -5000_0000_0000;
+                Console.WriteLine($"a = {a}");
+            }
         }
     }
 }

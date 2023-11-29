@@ -12,3 +12,4 @@ C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.
 C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
 C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
 C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
+C:\Users\gyrjs\OneDrive\바탕 화면\CSharp\Study\IntegralTypes\obj\Debug\net8.0\IntegralTypes.sourcelink.json
